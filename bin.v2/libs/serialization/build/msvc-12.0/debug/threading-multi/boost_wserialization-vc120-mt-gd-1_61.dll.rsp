@@ -1,0 +1,9 @@
+
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\basic_text_wiprimitive.obj" 
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\basic_text_woprimitive.obj" 
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\text_wiarchive.obj" 
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\text_woarchive.obj" 
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\xml_wgrammar.obj" 
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\xml_wiarchive.obj" 
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\xml_woarchive.obj" 
+"bin.v2\libs\serialization\build\msvc-12.0\debug\threading-multi\boost_serialization-vc120-mt-gd-1_61.lib"    

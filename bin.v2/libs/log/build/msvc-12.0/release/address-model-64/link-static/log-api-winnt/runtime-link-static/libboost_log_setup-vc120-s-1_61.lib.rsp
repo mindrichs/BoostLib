@@ -1,0 +1,10 @@
+
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\parser_utils.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\init_from_stream.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\init_from_settings.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\settings_parser.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\filter_parser.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\formatter_parser.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\default_filter_factory.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\matches_relation_factory.obj" 
+"bin.v2\libs\log\build\msvc-12.0\release\address-model-64\link-static\log-api-winnt\runtime-link-static\default_formatter_factory.obj"   
